@@ -1,0 +1,17 @@
+[
+  {
+    "name": "DEFAULT-1 (new)",
+    "url": "https://raw.githubusercontent.com/vapaxemu/cli/refs/heads/main/js/_worker1.js",
+    "is_default": true
+  },
+  {
+    "name": "DEFAULT-2 (old)",
+    "url": "https://raw.githubusercontent.com/vapaxemu/cli/refs/heads/main/js/_worker2.js",
+    "is_default": false
+  },
+  {
+    "name": "DEFAULT-3 (paid)",
+    "url": "https://raw.githubusercontent.com/vapaxemu/cli/refs/heads/main/js/_worker3.js",
+    "is_default": false
+  }
+]
